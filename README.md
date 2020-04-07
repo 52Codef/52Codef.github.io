@@ -1,11 +1,11 @@
-## 欢迎来到CodeF公式主页
+# 欢迎来到CodeF公式主页
 
 简单又好玩的益智游戏
 
-# 也欢迎关注我们的粉丝页
+## 也欢迎关注我们的粉丝页
 [Facebook](https://www.facebook.com/codefgame) [Twitter](https://twitter.com/CodeFgame)
 
-###Download Link
+## Download Link
 
 #Merge Car Racer	
 Download on [Google play](https://play.google.com/store/apps/details?id=com.codef.mergecarracer) [App Store](https://itunes.apple.com/app/id1469533028)
