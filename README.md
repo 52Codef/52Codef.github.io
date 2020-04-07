@@ -9,7 +9,7 @@
 Download on [Google play](https://play.google.com/store/apps/details?id=com.codef.mergecarracer) [App Store](https://itunes.apple.com/app/id1469533028)
 
 #Arrow2	
-Download on [Google play](https://play.google.com/store/apps/details?id=com.codef.arrow2)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow2)
 
 #100 Quiz	
 Download on [Google play](https://play.google.com/store/apps/details?id=com.codef.hundredquiz)
