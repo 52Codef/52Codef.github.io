@@ -5,7 +5,6 @@
 
 
 
-```markdown
 
 ###Download Link
 
@@ -40,6 +39,7 @@
 #Pop Ice	Download on [Google play](https://play.google.com/store/apps/details?id=com.codef.popice)
 
 
+```markdown
 
 
 Syntax highlighted code block
