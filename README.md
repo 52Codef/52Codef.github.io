@@ -7,23 +7,25 @@
 
 ## Download Link
 
-[img](https://52codef.github.io/img/Arrow2.png)
+![img](https://52codef.github.io/img/mergecarracer.png)
 ### Merge Car Racer	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecarracer) [[App Store]](https://itunes.apple.com/app/id1469533028)
 
-![img](https://52codef.github.io/img/Arrow2.png)
 ### Arrow2	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow2)
 
 ### 100 Quiz	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hundredquiz)
 
+![img](https://52codef.github.io/img/PopGarden.png)
 ### Pop Garden	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.popgarden)
 
-### Ice Blast	
+![img](https://52codef.github.io/img/IceBlast.png)
+### Ice Blast
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.iceblast)
 
+![img](https://52codef.github.io/img/CakeLand.png)
 ### Cake Land	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.cakeland)
 
@@ -75,6 +77,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Merge Marathon	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergemarathon)
 
+![img](https://52codef.github.io/img/dotsallot.png)
 ### Merge Cake	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecake)
 
