@@ -7,9 +7,11 @@
 
 ## Download Link
 
+[img](https://52codef.github.io/img/Arrow2.png)
 ### Merge Car Racer	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecarracer) [[App Store]](https://itunes.apple.com/app/id1469533028)
 
+![img](https://52codef.github.io/img/Arrow2.png)
 ### Arrow2	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow2)
 
