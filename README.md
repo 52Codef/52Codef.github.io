@@ -7,6 +7,10 @@
 
 ## Download Link
 
+![img](https://52codef.github.io/img/dotsshot.png)
+### Dots Shot	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotsshot)  [[App Store]](https://itunes.apple.com/app/id1507325626)
+
 ![img](https://52codef.github.io/img/mergecarracer.png)
 ### Merge Car Racer	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecarracer) [[App Store]](https://itunes.apple.com/app/id1469533028)
@@ -56,9 +60,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Circle Drive	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.circledrive)
 
-### Dots Shot	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotsshot)
-
 ### Dots Crush	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotscrush)
 
@@ -77,7 +78,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Merge Marathon	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergemarathon)
 
-![img](https://52codef.github.io/img/dotsallot.png)
+![img](https://52codef.github.io/img/mergecake.png)
 ### Merge Cake	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecake)
 
