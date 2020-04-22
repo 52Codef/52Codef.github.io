@@ -8,12 +8,16 @@
 ## Download Link
 
 ![img](https://52codef.github.io/img/dotsshot.png)
-### Dots Shot	
+
+### Dots Shot 炫彩见缝插针
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotsshot)  [[App Store]](https://itunes.apple.com/app/id1507325626)
 
 ![img](https://52codef.github.io/img/mergecarracer.png)
-### Merge Car Racer	
+### Merge Car Racer 合并赛车
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecarracer) [[App Store]](https://itunes.apple.com/app/id1469533028)
+
+### Match Match 
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.matchmatch)	 [[App Store]](https://itunes.apple.com/app/id1508953324)
 
 ### Arrow2	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow2)
@@ -99,3 +103,5 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Pop Ice	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.popice)
+
+
