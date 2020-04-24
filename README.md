@@ -16,6 +16,10 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Merge Car Racer 合并赛车
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecarracer) [[App Store]](https://itunes.apple.com/app/id1469533028)
 
+![img](https://52codef.github.io/img/dotsallot.png)
+### Dots Allot	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotsallot) [[App Store]](https://itunes.apple.com/app/id1509391665)
+
 ![img](https://52codef.github.io/img/matchmatch.png)
 ### Match Match 
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.matchmatch)	 [[App Store]](https://itunes.apple.com/app/id1508953324)
@@ -67,9 +71,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Dots Crush	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotscrush)
-
-### Dots Allot	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotsallot)
 
 ### Merge Highway	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.goldenhighway)
