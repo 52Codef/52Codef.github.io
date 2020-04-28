@@ -7,8 +7,12 @@
 
 ## Download Link
 
-![img](https://52codef.github.io/img/dotsshot.png)
 
+![img](https://52codef.github.io/img/Slideandcrush.png)
+### Slide	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.slideandcrush) [[App Store]](https://itunes.apple.com/app/id1509004463)
+
+![img](https://52codef.github.io/img/dotsshot.png)
 ### Dots Shot 炫彩见缝插针
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotsshot)  [[App Store]](https://itunes.apple.com/app/id1507325626)
 
@@ -41,9 +45,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ![img](https://52codef.github.io/img/CakeLand.png)
 ### Cake Land	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.cakeland)
-
-### Slide	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.slideandcrush)
 
 ### Hex Puzzle	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hexpuzzle)
