@@ -9,7 +9,7 @@
 
 
 ![img](https://52codef.github.io/img/Slideandcrush.png)
-### Slide	
+### Slide and Crush 滑动与撞击
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.slideandcrush) [[App Store]](https://itunes.apple.com/app/id1509004463)
 
 ![img](https://52codef.github.io/img/dotsshot.png)
