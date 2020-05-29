@@ -28,6 +28,10 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Match Match 
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.matchmatch)	 [[App Store]](https://itunes.apple.com/app/id1508953324)
 
+![img](https://52codef.github.io/img/dotscrush.png)
+### Dots Crush	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotscrush) [[App Store]](https://itunes.apple.com/app/id1508963104)
+
 ### Arrow2	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow2)
 
@@ -69,9 +73,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Circle Drive	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.circledrive)
-
-### Dots Crush	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotscrush)
 
 ### Merge Highway	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.goldenhighway)
