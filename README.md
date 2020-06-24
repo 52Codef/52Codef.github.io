@@ -9,7 +9,7 @@
 
 ![img](https://52codef.github.io/img/StraightStrike.png)	
 ### Straight Strike 	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.straightstrike)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.straightstrike) [[App Store]](https://apps.apple.com/app/id1519599021)
 
 ![img](https://52codef.github.io/img/Slideandcrush.png)
 ### Slide and Crush 滑动与撞击
