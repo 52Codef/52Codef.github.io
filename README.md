@@ -7,6 +7,10 @@
 
 ## Download Link
 
+![img](https://52codef.github.io/img/LoopPanic.png)	
+### Loop Panic 环线危机	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.looppanic)
+
 ![img](https://52codef.github.io/img/StraightStrike.png)	
 ### Straight Strike 	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.straightstrike) [[App Store]](https://apps.apple.com/app/id1519599021)
@@ -56,26 +60,11 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Hex Puzzle	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hexpuzzle)
 
-### Hexa Puzzle	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hexapuzzle)
-
-### Salad Puzzle	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.saladpuzzle)
-
-### Ice Crush	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.blockpuzzleice)
-
 ### Tap Walker	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.tapwalker)
 
-### Candy Puzzle	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.candypuzzle)
-
 ### Block Breaker	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.blockbreaker)
-
-### Circle Drive	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.circledrive)
 
 ### Merge Highway	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.goldenhighway)
@@ -107,8 +96,5 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Merge Garden	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeslice)
-
-### Pop Ice	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.popice)
 
 
