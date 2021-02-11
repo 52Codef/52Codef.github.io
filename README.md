@@ -7,6 +7,10 @@
 
 ## Download Link
 
+![img](https://52codef.github.io/img/DotsOrder.png)
+### Dots Order 轨道秩序	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dotsorder)
+
 ![img](https://52codef.github.io/img/TouchOut.png)	
 ### Touch Out 疯狂躲避球	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.touchout)
