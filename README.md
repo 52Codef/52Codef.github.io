@@ -13,7 +13,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pu
 
 ![img](https://52codef.github.io/img/TouchOut.png)	
 ### Touch Out 疯狂躲避球	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.touchout)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.touchout) [[App Store]](https://apps.apple.com/app/id1552614558)
 
 ![img](https://52codef.github.io/img/LoopPanic.png)	
 ### Loop Panic 环线危机	
