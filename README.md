@@ -7,6 +7,9 @@
 
 ## Download Link
 
+### Dots Order 2 轨道秩序2	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dotsorder2)
+
 ![img](https://52codef.github.io/img/DotsOrder.png)
 ### Dots Order 轨道秩序	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dotsorder) [[App Store]](https://apps.apple.com/app/id1552614376)
