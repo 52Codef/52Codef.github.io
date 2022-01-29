@@ -3,7 +3,7 @@
 简单又好玩的益智游戏
 
 ## 也欢迎关注我们的粉丝页
-[[Facebook]](https://www.facebook.com/codefgame) [[Twitter]](https://twitter.com/CodeFgame)
+[[Facebook]](https://www.facebook.com/codefgame) [[Twitter]](https://twitter.com/CodeFgame)[[TikTok]](https://tiktok.com/@pulunetwork)
 
 ## Download Link
 ![img](https://52codef.github.io/img/DotsOrder2.png)
@@ -75,7 +75,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.tapwalker)
 
 ### Block Breaker	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.blockbreaker)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.blockbreaker) [[App Store]](https://apps.apple.com/app/id1512450314)
 
 ### Merge Highway	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.goldenhighway)
