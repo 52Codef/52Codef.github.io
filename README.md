@@ -5,6 +5,8 @@
 ## 也欢迎关注我们的粉丝页
 [[Facebook]](https://www.facebook.com/codefgame) [[Twitter]](https://twitter.com/CodeFgame)[[TikTok]](https://tiktok.com/@pulunetwork)
 
+[[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
+
 ## Download Link
 ![img](https://52codef.github.io/img/NineHexagons.png)
 ### Nine Hexagons 点击砖块-蜂巢模式	
