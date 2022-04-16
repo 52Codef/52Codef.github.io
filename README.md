@@ -18,7 +18,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pu
 
 ![img](https://52codef.github.io/img/IglooCrush.png)
 ### Igloo Crush 冰屋消消乐
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulunetwork.igloocrush)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulunetwork.igloocrush) [[App Store]](https://apps.apple.com/app/id1610635448)
 
 ![img](https://52codef.github.io/img/DotsOrder2.png)
 ### Dots Order 2 轨道秩序2	
