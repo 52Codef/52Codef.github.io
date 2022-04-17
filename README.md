@@ -14,7 +14,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pu
 
 ![img](https://52codef.github.io/img/FourBricks.png)
 ### Four Bricks 点击砖块	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.tapbrick)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.tapbrick) [[App Store]](https://apps.apple.com/app/id1614139461)
 
 ![img](https://52codef.github.io/img/IglooCrush.png)
 ### Igloo Crush 冰屋消消乐
