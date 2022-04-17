@@ -10,7 +10,7 @@
 ## Download Link
 ![img](https://52codef.github.io/img/NineHexagons.png)
 ### Nine Hexagons 点击砖块-蜂巢模式	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.ninehexagons)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.ninehexagons) [[App Store]](https://apps.apple.com/app/id1615264822)
 
 ![img](https://52codef.github.io/img/FourBricks.png)
 ### Four Bricks 点击砖块	
