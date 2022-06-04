@@ -80,6 +80,14 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Merge Sword	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergesword)  [[App Store]](https://itunes.apple.com/app/id1470604942)
 
+![img](https://52codef.github.io/img/Arrow.png)
+### Arrow
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow) [[App Store]](https://apps.apple.com/app/id1624413843)
+
+![img](https://52codef.github.io/img/mergecake.png)
+### Merge Cake	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecake) [[App Store]](https://apps.apple.com/app/id1470086177)
+
 ### Arrow2	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow2)
 
@@ -106,10 +114,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Merge Vill	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergevill)
-
-![img](https://52codef.github.io/img/mergecake.png)
-### Merge Cake	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecake)
 
 ### Merge Knife	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife)
