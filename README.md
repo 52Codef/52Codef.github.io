@@ -96,7 +96,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ![img](https://52codef.github.io/img/PopGarden.png)
 ### Pop Garden	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.popgarden)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.popgarden) [[App Store]](https://apps.apple.com/app/id1627878706)
 
 ![img](https://52codef.github.io/img/IceBlast.png)
 ### Ice Blast
