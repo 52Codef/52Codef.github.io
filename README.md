@@ -8,6 +8,10 @@
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://52codef.github.io/img/mergevill.png)
+### Merge Vill	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergevill)[[App Store]](https://apps.apple.com/app/id1581101327)
+
 ![img](https://52codef.github.io/img/GemBurst.png)
 ### Gem Burst 宝石爆破	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.gemburst) [[App Store]](https://apps.apple.com/app/id1658919490)
@@ -116,11 +120,8 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Merge Rally	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergerally)
 
-### Merge Vill	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergevill)
-
 ### Merge Knife	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife) 
 
 ### Merge Jewel	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergegems)
