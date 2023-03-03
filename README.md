@@ -8,8 +8,12 @@
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://52codef.github.io/img/mergerally.png)
+### Merge Rally	合成拉力赛
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergerally) [[App Store]](https://apps.apple.com/app/id1624367576)
+
 ![img](https://52codef.github.io/img/mergevill.png)
-### Merge Vill	
+### Merge Vill 幻想合成村
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergevill)[[App Store]](https://apps.apple.com/app/id1581101327)
 
 ![img](https://52codef.github.io/img/GemBurst.png)
@@ -116,9 +120,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Hex Puzzle	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hexpuzzle)
-
-### Merge Rally	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergerally)
 
 ### Merge Knife	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife) 
