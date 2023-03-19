@@ -8,6 +8,10 @@
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://52codef.github.io/img/CakeDemolish.png)
+### Cake Demolish 蛋糕炫炫乐
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.cakedemolish)
+
 ![img](https://52codef.github.io/img/mergerally.png)
 ### Merge Rally	合成拉力赛
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergerally) [[App Store]](https://apps.apple.com/app/id1624367576)
