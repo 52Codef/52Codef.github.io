@@ -8,6 +8,10 @@
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://52codef.github.io/img/mergegems.png)
+### Merge Jewel	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergegems) [[App Store]](https://apps.apple.com/app/id1581151249)
+
 ![img](https://52codef.github.io/img/CakeDemolish.png)
 ### Cake Demolish 蛋糕炫炫乐
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.cakedemolish)
@@ -127,9 +131,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Merge Knife	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife) 
-
-### Merge Jewel	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergegems)
 
 ### Merge Axe	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeaxe)
