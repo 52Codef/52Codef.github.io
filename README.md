@@ -1,4 +1,4 @@
-# 欢迎来到CodeF公式主页
+![image](https://github.com/52Codef/52Codef.github.io/assets/74678014/20fbd5b2-0cab-43ae-ba16-f82afbb95ada)# 欢迎来到CodeF公式主页
 
 简单又好玩的益智游戏
 
@@ -8,6 +8,10 @@
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://52codef.github.io/img/mergeaxe.png)
+### Merge Axe	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeaxe) [[App Store]](https://apps.apple.com/app/id1624414103)
+
 ![img](https://52codef.github.io/img/mergegems.png)
 ### Merge Jewel	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergegems) [[App Store]](https://apps.apple.com/app/id1581151249)
@@ -131,7 +135,3 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Merge Knife	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife) 
-
-### Merge Axe	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeaxe)
-
