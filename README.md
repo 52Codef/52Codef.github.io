@@ -1,4 +1,4 @@
-![image](https://github.com/52Codef/52Codef.github.io/assets/74678014/20fbd5b2-0cab-43ae-ba16-f82afbb95ada)# 欢迎来到CodeF公式主页
+# 欢迎来到CodeF公式主页
 
 简单又好玩的益智游戏
 
