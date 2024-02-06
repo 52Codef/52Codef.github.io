@@ -8,6 +8,10 @@
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://52codef.github.io/img/DinoHeroes.png)
+### Dino Heroes 恐龙英雄
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dinoheroes)
+
 ![img](https://52codef.github.io/img/PopForest.png)
 ### Pop Forest 森林消消乐
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.popforest)[[App Store]](https://apps.apple.com/app/id1622770065)
