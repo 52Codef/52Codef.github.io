@@ -9,7 +9,7 @@
 
 ## Download Link
 ![img](https://52codef.github.io/img/mergeknife.png)
-### Merge Knife 可成小刀
+### Merge Knife 合成小刀
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife)	 [[App Store]](https://apps.apple.com/app/id1624414244)
 
 ![img](https://52codef.github.io/img/DinoHeroes.png)
