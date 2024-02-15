@@ -8,6 +8,10 @@
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://52codef.github.io/img/mergeknife.png)
+### Merge Knife 可成小刀
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife)	 [[App Store]](https://apps.apple.com/app/id1624414244)
+
 ![img](https://52codef.github.io/img/DinoHeroes.png)
 ### Dino Heroes 恐龙英雄
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dinoheroes) [[App Store]](https://apps.apple.com/app/id6474651873)
@@ -144,6 +148,3 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Hex Puzzle	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hexpuzzle)
-
-### Merge Knife	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife) 
