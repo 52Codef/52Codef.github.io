@@ -8,6 +8,10 @@
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://52codef.github.io/img/BirdLink.png)
+### Bird Link 小鸡连连消
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.birdlink)
+
 ![img](https://52codef.github.io/img/mergeknife.png)
 ### Merge Knife 合成小刀
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife)	 [[App Store]](https://apps.apple.com/app/id1624414244)
