@@ -12,6 +12,10 @@
 ### Bird Link 小鸡连连消
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.birdlink)
 
+![img](https://52codef.github.io/img/HideOrRun.png)		
+### Hide Or Run 	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.hideorrun)	 [[App Store]](https://apps.apple.com/app/id6471942916)
+
 ![img](https://52codef.github.io/img/mergeknife.png)
 ### Merge Knife 合成小刀
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife)	 [[App Store]](https://apps.apple.com/app/id1624414244)
