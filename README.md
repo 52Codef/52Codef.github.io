@@ -3,7 +3,7 @@
 简单又好玩的益智游戏
 
 ## 也欢迎关注我们的粉丝页
-[[Facebook]](https://www.facebook.com/codefgame) [[Twitter]](https://twitter.com/CodeFgame)[[TikTok]](https://tiktok.com/@pulunetwork)
+[[Facebook]](https://www.facebook.com/codefgame) [[Twitter]](https://twitter.com/CodeFgame)[[TikTok]](https://tiktok.com/@pulunetwork)[[Discord]](https://discord.gg/RvZqu4xUbS)
 
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
